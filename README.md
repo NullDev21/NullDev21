@@ -3,17 +3,16 @@
 #### About Me
 - 🎓 SmogClient and Foxy-Firewall Developer
 - 🌍 Based in Italy
-- 💻 Passionate about open-source software
+- 💻 Passionate about cybersecurity
 - 🚀 Currently working on **Foxy-Firewall**
 
 #### Skills
-- **Languages**: Java, HTML, PHP, PYTHON
+- **Languages**: Java, HTML, PHP, Python
 - **Frameworks**: BootStrap
 - **Tools**: Git
 
 #### Projects
 - [**Alessandrini Monitor**](https://github.com/NullDev21/AlessandriniMonitor): A tool for managing and maintaining school computers.
-- [**Host-Files**](https://github.com/NullDev21/Host-Files): A project to manage host files effectively.
 
 #### Get in Touch
 - 🐦 Telegram: [@NullDev21](https://t.me/NullDev21)
