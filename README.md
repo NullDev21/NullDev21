@@ -19,5 +19,4 @@
 - 🐦 Telegram: [@NullDev21](https://t.me/NullDev21)
 - 💬 Discord: [SmogClient](https://dsc.gg/HunterSQ)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullDev21&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NullDev21&layout=compact&theme=dark)
