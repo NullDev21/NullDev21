@@ -12,7 +12,9 @@
 - **Tools**: Git
 
 #### Projects
-- [**Alessandrini Monitor**](https://github.com/NullDev21/AlessandriniMonitor): A tool for managing and maintaining school computers.
+- [**SmogClient**](https://smogclient.xyz/): minecraft pentest tool.
+- [**Alessandrini Monitor**](https://github.com/NullDev21/AlessandriniMonitor): A tool for managing and maintaining school computers (OLD).
+- NullTracer: AntiDump // AntiReverseEngineer for java projects.
 
 #### Get in Touch
 - 🐦 Telegram: [@NullDev21](https://t.me/NullDev21)
